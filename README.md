@@ -12,5 +12,4 @@
 
 安裝及執行指令:
 chmod +x main.sh
-
 ./main.sh
