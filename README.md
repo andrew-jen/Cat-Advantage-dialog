@@ -12,5 +12,6 @@
 
 安裝指令:
 chmod +x main.sh
+
 執行指令:
 ./main.sh
